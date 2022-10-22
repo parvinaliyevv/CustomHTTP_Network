@@ -1,0 +1,84 @@
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.exe
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.deps.json
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.runtimeconfig.json
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.AssemblyReference.cache
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.baml
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client_MarkupCompile.cache
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.g.resources
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfoInputs.cache
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfo.cs
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CoreCompileInputs.cache
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CopyComplete
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\refint\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.genruntimeconfig.cache
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\ref\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.exe
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.deps.json
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.runtimeconfig.json
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.AssemblyReference.cache
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Resources\AppResources.baml
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\CreateCarView.baml
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.baml
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\CreateCarView.g.cs
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client_MarkupCompile.cache
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.g.resources
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfoInputs.cache
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfo.cs
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CoreCompileInputs.cache
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CopyComplete
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\refint\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.genruntimeconfig.cache
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\ref\CustomHTTP.Client.dll
+C:\Users\Aliy_ql08\Desktop\New folder\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.dll.config
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.exe
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.dll.config
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.deps.json
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.runtimeconfig.json
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\Bogus.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Resources\AppResources.baml
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\CreateCarView.baml
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.baml
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\CreateCarView.g.cs
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client_MarkupCompile.cache
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.g.resources
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.AssemblyInfo.cs
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.csproj.CopyComplete
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\refint\CustomHTTP.Client.dll
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.pdb
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\CustomHTTP.Client.genruntimeconfig.cache
+C:\Users\HP\source\repos\CustomHTTP\CustomHTTP.Client\obj\Debug\net6.0-windows\ref\CustomHTTP.Client.dll

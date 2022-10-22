@@ -1,0 +1,66 @@
+﻿<Window x:Class="CustomHTTP.Client.Views.CreateCarView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True" Background="Transparent"
+        WindowStartupLocation="CenterOwner" Height="300" Width="500" mc:Ignorable="d">
+
+    <Border Background="#28282e" CornerRadius="7">
+        <Grid>
+
+            <Grid.RowDefinitions>
+                <RowDefinition MaxHeight="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Border Background="#232123" CornerRadius="7, 7, 0, 0" MouseDown="DragWindow_MouseDown">
+                <DockPanel>
+
+                    <DockPanel.Resources>
+                        <Style TargetType="Button" BasedOn="{StaticResource MaterialDesignFloatingActionMiniDarkButton}">
+
+                            <Setter Property="Foreground" Value="AntiqueWhite"/>
+                            <Setter Property="Background" Value="Transparent"/>
+                            <Setter Property="BorderBrush" Value="Transparent"/>
+
+                            <Setter Property="Height" Value="40"/>
+                            <Setter Property="Width" Value="40"/>
+
+                        </Style>
+                    </DockPanel.Resources>
+
+                    <Button Content="{materialDesign:PackIcon Kind=Close}" Margin="0, 0, 10, 0" Click="AppClose_ButtonClicked" DockPanel.Dock="Right"/>
+
+                    <TextBlock Text="Create" Foreground="AntiqueWhite" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="50, 0, 0, 0" FontSize="24"/>
+
+                </DockPanel>
+            </Border>
+
+            <Grid Grid.Row="1">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition Height="70"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <TextBox Text="{Binding Car.Vin}" BorderBrush="AntiqueWhite" materialDesign:HintAssist.Background="#28282e" materialDesign:HintAssist.Hint="Id" Margin="10" IsEnabled="False"/>
+                <TextBox Text="{Binding Car.Vendor}" BorderBrush="AntiqueWhite" materialDesign:HintAssist.Background="#28282e" materialDesign:HintAssist.Hint="Vendor" Margin="10" Grid.Row="0" Grid.Column="1"/>
+                <TextBox Text="{Binding Car.Model}" BorderBrush="AntiqueWhite" materialDesign:HintAssist.Background="#28282e" materialDesign:HintAssist.Hint="Model" Margin="10" Grid.Row="1" Grid.Column="0"/>
+                <TextBox Text="{Binding Car.Year}" BorderBrush="AntiqueWhite" materialDesign:HintAssist.Background="#28282e" materialDesign:HintAssist.Hint="Year" Margin="10" Grid.Row="1" Grid.Column="1"/>
+
+                <Button Click="SaveCar_ButtonClicked" Content="Save" Margin="50, 0" Grid.ColumnSpan="2" Grid.Row="2"/>
+
+            </Grid>
+
+        </Grid>
+    </Border>
+
+</Window>
